@@ -1,3 +1,3 @@
-module github.com/JoachimByrnesShay/gowebcrawler1
+module gowebcrawler
 
 go 1.27.1
